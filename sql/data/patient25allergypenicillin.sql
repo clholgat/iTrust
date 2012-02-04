@@ -1,0 +1,1 @@
+INSERT INTO Allergies(PatientID, Description) VALUES (25,'Penicillin')

@@ -378,6 +378,36 @@ public class TestDataGenerator {
 		new DBBuilder(factory).executeSQLFile(DIR + "/patient25.sql");
 	}
 	
+	/**
+	 * Add Lantus medication allergy to patient 25
+	 * @throws FileNotFoundException
+	 * @throws SQLException
+	 * @throws IOException
+	 */
+	public void patient25allergylantus() throws FileNotFoundException, SQLException, IOException {
+		new DBBuilder(factory).executeSQLFile(DIR+"/patient25allergylantus.sql");
+	}
+	
+	/**
+	 * Add Penicillin medication allergy to patient 25
+	 * @throws FileNotFoundException
+	 * @throws SQLException
+	 * @throws IOException
+	 */
+	public void patient25allergypenicillin() throws FileNotFoundException, SQLException, IOException {
+		new DBBuilder(factory).executeSQLFile(DIR+"/patient25allergypenicillin.sql");
+	}
+	
+	/**
+	 * Add Nexium medication allergy to patient 25
+	 * @throws FileNotFoundException
+	 * @throws SQLException
+	 * @throws IOException
+	 */
+	public void patient25allergynexium() throws FileNotFoundException, SQLException, IOException {
+		new DBBuilder(factory).executeSQLFile(DIR+"/patient25allergynexium.sql");
+	}
+	
 	public void patient42() throws FileNotFoundException, SQLException, IOException {
 		new DBBuilder(factory).executeSQLFile(DIR + "/patient42.sql");
 	}
