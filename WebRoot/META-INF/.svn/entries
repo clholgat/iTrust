@@ -1,0 +1,52 @@
+8
+
+dir
+11
+https://svn.csc.ncsu.edu:8443/svn/csc-326-project1-team28/iTrust/WebRoot/META-INF
+https://svn.csc.ncsu.edu:8443/svn/csc-326-project1-team28
+
+
+
+2012-02-01T08:08:31.523096Z
+10
+hmandrew
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+34869b4c-c547-a547-ab98-2fd367cbcc81
+
+MANIFEST.MF
+file
+
+
+
+
+2012-02-01T05:40:52.000000Z
+b10f37c8bb1803d98c127a01d1a71cc5
+2012-01-31T01:46:48.819188Z
+2
+drfarrel
+
+context.xml
+file
+19
+
+
+
+2012-02-01T08:36:55.000000Z
+1c8d7569e3bd4ff877f19d2dc4e9856e
+2012-02-01T13:40:56.899604Z
+19
+drfarrel
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/standards
+END
+NDCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/standards/NDCodeTest.java
+END
+NDDAOExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/standards/NDDAOExceptionTest.java
+END
+CPTCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/standards/CPTCodeTest.java
+END
+CPTDAOExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/standards/CPTDAOExceptionTest.java
+END
+ICDDAOExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/standards/ICDDAOExceptionTest.java
+END
+ICDCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/standards/ICDCodeTest.java
+END

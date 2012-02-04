@@ -1,0 +1,67 @@
+8
+
+dir
+11
+https://svn.csc.ncsu.edu:8443/svn/csc-326-project1-team28/iTrust/src/edu/ncsu/csc/itrust/dao
+https://svn.csc.ncsu.edu:8443/svn/csc-326-project1-team28
+
+
+
+2012-02-01T08:22:54.441334Z
+11
+drfarrel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+34869b4c-c547-a547-ab98-2fd367cbcc81
+
+DAOFactory.java
+file
+
+
+
+
+2012-02-01T05:41:27.000000Z
+8f38fc22bd5fd2a122d07fe5bb3b3c81
+2012-01-31T01:46:48.819188Z
+2
+drfarrel
+
+IConnectionDriver.java
+file
+
+
+
+
+2012-02-01T05:41:25.000000Z
+76e52c99474f33af8263a5405e60807b
+2012-01-31T01:46:48.819188Z
+2
+drfarrel
+
+ProductionConnectionDriver.java
+file
+
+
+
+
+2012-02-01T05:41:25.000000Z
+05e73ddce553add53bf4ce94035508a3
+2012-01-31T01:46:48.819188Z
+2
+drfarrel
+
+mysql
+dir
+

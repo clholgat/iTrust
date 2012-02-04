@@ -1,0 +1,52 @@
+8
+
+dir
+11
+https://svn.csc.ncsu.edu:8443/svn/csc-326-project1-team28/iTrust/unittests/edu/ncsu/csc/itrust/db
+https://svn.csc.ncsu.edu:8443/svn/csc-326-project1-team28
+
+
+
+2012-01-31T01:46:48.819188Z
+2
+drfarrel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+34869b4c-c547-a547-ab98-2fd367cbcc81
+
+DBBuilderTest.java
+file
+
+
+
+
+2012-02-01T05:41:03.000000Z
+b20dda66dd2aa2b96251dd24ec203a53
+2012-01-31T01:46:48.819188Z
+2
+drfarrel
+
+DBUtilTest.java
+file
+
+
+
+
+2012-02-01T05:41:03.000000Z
+0cd68475985d7ed551995d01ac0cc09a
+2012-01-31T01:46:48.819188Z
+2
+drfarrel
+

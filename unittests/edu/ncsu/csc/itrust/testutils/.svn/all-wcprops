@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/testutils
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/testutils/TestBean.java
+END
+BadBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/testutils/BadBean.java
+END
+TestDAOFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/testutils/TestDAOFactory.java
+END
+OkayBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/testutils/OkayBean.java
+END
+ValidatorProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/testutils/ValidatorProxy.java
+END
+EvilDAOFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/testutils/EvilDAOFactory.java
+END
+JUnitiTrustUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/testutils/JUnitiTrustUtils.java
+END
+SQLFileCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/testutils/SQLFileCache.java
+END
+ActionTestWithMocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/testutils/ActionTestWithMocks.java
+END

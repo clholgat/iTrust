@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc-326-project1-team28/!svn/ver/11/iTrust/WebRoot/auth/hcp-uap
+END
+editPrescription.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editPrescription.jsp
+END
+viewPatientDemographicsHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/viewPatientDemographicsHistory.jsp
+END
+viewReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/viewReport.jsp
+END
+viewSentReferrals.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/viewSentReferrals.jsp
+END
+editPatientList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editPatientList.jsp
+END
+chronicDiseaseRisks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/chronicDiseaseRisks.jsp
+END
+editOVReferral.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc-326-project1-team28/!svn/ver/13/iTrust/WebRoot/auth/hcp-uap/editOVReferral.jsp
+END
+editOVLabProcedureCommentary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editOVLabProcedureCommentary.jsp
+END
+editOVLabProcedureConfirmDelete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editOVLabProcedureConfirmDelete.jsp
+END
+viewPatientOfficeVisitHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/viewPatientOfficeVisitHistory.jsp
+END
+editOVLabProcedure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editOVLabProcedure.jsp
+END
+documentOfficeVisit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/documentOfficeVisit.jsp
+END
+editPHR.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editPHR.jsp
+END
+viewReceivedReferrals.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/viewReceivedReferrals.jsp
+END
+editPatient.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editPatient.jsp
+END
+getPrescriptionReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/getPrescriptionReport.jsp
+END
+addPatient.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/addPatient.jsp
+END
+editOVLabProcedureReassign.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editOVLabProcedureReassign.jsp
+END
+editReferral.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editReferral.jsp
+END
+updateLabProc.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/updateLabProc.jsp
+END
+editBasicHealth.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editBasicHealth.jsp
+END
+healthDataChart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/healthDataChart.jsp
+END
+editOVPrescription.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editOVPrescription.jsp
+END
+viewMyReportRequests.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/viewMyReportRequests.jsp
+END
+editOVDiagnosis.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/csc-326-project1-team28/!svn/ver/19/iTrust/WebRoot/auth/hcp-uap/editOVDiagnosis.jsp
+END
+editOfficeVisit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editOfficeVisit.jsp
+END
+editOVProcedure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editOVProcedure.jsp
+END
+editPatientPhoto.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editPatientPhoto.jsp
+END
+LabProcUAP.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/LabProcUAP.jsp
+END
+editOVImmunization.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editOVImmunization.jsp
+END
+showEmailHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/showEmailHistory.jsp
+END
+editOVPatientInstructions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp-uap/editOVPatientInstructions.jsp
+END

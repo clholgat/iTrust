@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/csc-326-project1-team28/!svn/ver/10/iTrust/WebRoot/util
+END
+resetPassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/util/resetPassword.jsp
+END
+showFakeEmails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/util/showFakeEmails.jsp
+END
+displayDatabase.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/util/displayDatabase.jsp
+END
+getUserFrame.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/util/getUserFrame.jsp
+END
+getUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/util/getUser.jsp
+END
+transactionLog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/util/transactionLog.jsp
+END
+displayWikiDatabase.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/util/displayWikiDatabase.jsp
+END
+andystestutil.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/util/andystestutil.jsp
+END

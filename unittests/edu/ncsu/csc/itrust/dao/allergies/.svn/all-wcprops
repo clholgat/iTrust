@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/allergies
+END
+AddAllergiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/allergies/AddAllergiesTest.java
+END
+GetAllergiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/allergies/GetAllergiesTest.java
+END
+AllergyDAOExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/allergies/AllergyDAOExceptionTest.java
+END

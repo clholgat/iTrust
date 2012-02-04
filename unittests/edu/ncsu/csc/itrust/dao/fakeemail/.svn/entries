@@ -1,0 +1,52 @@
+8
+
+dir
+11
+https://svn.csc.ncsu.edu:8443/svn/csc-326-project1-team28/iTrust/unittests/edu/ncsu/csc/itrust/dao/fakeemail
+https://svn.csc.ncsu.edu:8443/svn/csc-326-project1-team28
+
+
+
+2012-01-31T01:46:48.819188Z
+2
+drfarrel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+34869b4c-c547-a547-ab98-2fd367cbcc81
+
+EmailExceptionTest.java
+file
+
+
+
+
+2012-02-01T05:41:08.000000Z
+813f60ad3656864b68048d26f0856bc2
+2012-01-31T01:46:48.819188Z
+2
+drfarrel
+
+EmailTest.java
+file
+
+
+
+
+2012-02-01T05:41:08.000000Z
+4496efbfc546d6daf866cf1ad1a5efce
+2012-01-31T01:46:48.819188Z
+2
+drfarrel
+

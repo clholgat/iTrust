@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/risk/factors
+END
+ChildhoodInfectionFactorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/risk/factors/ChildhoodInfectionFactorTest.java
+END
+HypertensionFactorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/risk/factors/HypertensionFactorTest.java
+END
+EthnicityFactorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/risk/factors/EthnicityFactorTest.java
+END
+FamilyHistoryFactorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/risk/factors/FamilyHistoryFactorTest.java
+END
+GenderFactorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/risk/factors/GenderFactorTest.java
+END
+AgeFactorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/risk/factors/AgeFactorTest.java
+END
+CholesterolFactorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/risk/factors/CholesterolFactorTest.java
+END
+WeightFactorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/risk/factors/WeightFactorTest.java
+END
+PriorDiagnosesFactorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/risk/factors/PriorDiagnosesFactorTest.java
+END
+SmokingFactorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/risk/factors/SmokingFactorTest.java
+END

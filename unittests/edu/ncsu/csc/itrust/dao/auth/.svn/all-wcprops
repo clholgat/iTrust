@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/auth
+END
+GetLoginFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/auth/GetLoginFailureTest.java
+END
+AddUserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/auth/AddUserTest.java
+END
+RecordLoginFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/auth/RecordLoginFailureTest.java
+END
+GetUserRoleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/auth/GetUserRoleTest.java
+END
+ResetPasswordTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/auth/ResetPasswordTest.java
+END
+UserExistsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/auth/UserExistsTest.java
+END
+GetUserNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/auth/GetUserNameTest.java
+END
+AuthDAOExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/auth/AuthDAOExceptionTest.java
+END

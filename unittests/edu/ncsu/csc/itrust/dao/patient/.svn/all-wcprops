@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/patient
+END
+GetProceduresTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/patient/GetProceduresTest.java
+END
+RepresentativeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/patient/RepresentativeTest.java
+END
+PatientDAOExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/patient/PatientDAOExceptionTest.java
+END
+GetDiagnosesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/patient/GetDiagnosesTest.java
+END
+DeclareHCPTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/patient/DeclareHCPTest.java
+END
+PatientExistsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/patient/PatientExistsTest.java
+END
+AddPatientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/patient/AddPatientTest.java
+END
+GetPrescriptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/patient/GetPrescriptionsTest.java
+END
+EditPatientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/dao/patient/EditPatientTest.java
+END

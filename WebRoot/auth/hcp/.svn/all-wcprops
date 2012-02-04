@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp
+END
+menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/menu.jsp
+END
+LabProcHCP.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/LabProcHCP.jsp
+END
+editPatientList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/editPatientList.jsp
+END
+reply.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/reply.jsp
+END
+viewPrescriptionRenewalNeeds.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/viewPrescriptionRenewalNeeds.jsp
+END
+viewMyAppts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/viewMyAppts.jsp
+END
+sendEmailNotification.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/sendEmailNotification.jsp
+END
+messageOutbox.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/messageOutbox.jsp
+END
+information.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/information.jsp
+END
+calendar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/calendar.jsp
+END
+notificationArea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/notificationArea.jsp
+END
+scheduleAppt.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/scheduleAppt.jsp
+END
+editRepresentatives.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/editRepresentatives.jsp
+END
+viewAppt.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/viewAppt.jsp
+END
+viewMyMessages.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/viewMyMessages.jsp
+END
+messageInbox.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/messageInbox.jsp
+END
+monitorPatients.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/monitorPatients.jsp
+END
+visitReminders.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/visitReminders.jsp
+END
+addUAP.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/addUAP.jsp
+END
+viewMessageOutbox.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/viewMessageOutbox.jsp
+END
+viewMessageInbox.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/viewMessageInbox.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/home.jsp
+END
+editAppt.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/editAppt.jsp
+END
+sendMessage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/sendMessage.jsp
+END
+viewAdditionalInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/viewAdditionalInfo.jsp
+END
+hcpConsultation-old.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/hcpConsultation-old.jsp
+END
+UpdateLabProc.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/hcp/UpdateLabProc.jsp
+END

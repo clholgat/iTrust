@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient
+END
+menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/menu.jsp
+END
+viewMyRecords.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewMyRecords.jsp
+END
+reportAdverseEvent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/reportAdverseEvent.jsp
+END
+reply.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/reply.jsp
+END
+myDiagnoses.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/myDiagnoses.jsp
+END
+addTelemedicinePhysiologicData.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/addTelemedicinePhysiologicData.jsp
+END
+viewMyAppts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewMyAppts.jsp
+END
+viewPrescriptionInformation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewPrescriptionInformation.jsp
+END
+viewPatientInstructions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewPatientInstructions.jsp
+END
+messageOutbox.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/messageOutbox.jsp
+END
+viewMyLabProcedures.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewMyLabProcedures.jsp
+END
+information.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/information.jsp
+END
+calendar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/calendar.jsp
+END
+notificationArea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/notificationArea.jsp
+END
+viewVisitedHCPs.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewVisitedHCPs.jsp
+END
+viewLabProc.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewLabProc.jsp
+END
+viewPrescriptionRecords.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewPrescriptionRecords.jsp
+END
+addTelemedicineExternalData.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/addTelemedicineExternalData.jsp
+END
+viewAppt.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewAppt.jsp
+END
+viewMyMessages.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewMyMessages.jsp
+END
+viewLHCP.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewLHCP.jsp
+END
+viewPatientReferrals.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewPatientReferrals.jsp
+END
+messageInbox.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/messageInbox.jsp
+END
+viewOfficeVisit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewOfficeVisit.jsp
+END
+survey.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/survey.jsp
+END
+LabResultsChart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/LabResultsChart.jsp
+END
+activityFeed.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/activityFeed.jsp
+END
+viewMessageOutbox.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewMessageOutbox.jsp
+END
+viewMessageInbox.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewMessageInbox.jsp
+END
+editMyDemographics.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/editMyDemographics.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/home.jsp
+END
+sendMessage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/sendMessage.jsp
+END
+viewExpiredPrescriptionRecords.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewExpiredPrescriptionRecords.jsp
+END
+showEmailHistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/showEmailHistory.jsp
+END
+addTelemedicineData.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/addTelemedicineData.jsp
+END
+viewAccessLog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/patient/viewAccessLog.jsp
+END

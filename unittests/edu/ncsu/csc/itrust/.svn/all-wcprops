@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc-326-project1-team28/!svn/ver/10/iTrust/unittests/edu/ncsu/csc/itrust
+END
+HtmlEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/HtmlEncoderTest.java
+END
+DateUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/DateUtilTest.java
+END
+DBBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/DBBuilder.java
+END
+MessagesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/MessagesTest.java
+END
+ParameterUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/ParameterUtilTest.java
+END
+LocalizationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/LocalizationTest.java
+END
+EmailUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/EmailUtilTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/AllTests.java
+END
+BeanBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/BeanBuilderTest.java
+END
+ErrorListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/unittests/edu/ncsu/csc/itrust/ErrorListTest.java
+END

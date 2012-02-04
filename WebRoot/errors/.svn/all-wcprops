@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/errors
+END
+nodb.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/errors/nodb.jsp
+END
+reboot.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/errors/reboot.jsp
+END
+noaccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/errors/noaccess.jsp
+END
+notfound.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/errors/notfound.jsp
+END
+badredirect.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/errors/badredirect.jsp
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin
+END
+menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/menu.jsp
+END
+addHCP.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/addHCP.jsp
+END
+addER.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/addER.jsp
+END
+editICDCodes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/editICDCodes.jsp
+END
+hospitalAssignments.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/hospitalAssignments.jsp
+END
+addLT.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/addLT.jsp
+END
+addPHA.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/addPHA.jsp
+END
+editLOINCCodes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/editLOINCCodes.jsp
+END
+sessionTimeout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/sessionTimeout.jsp
+END
+editApptType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/editApptType.jsp
+END
+viewAllReportRequests.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/viewAllReportRequests.jsp
+END
+hospitalAssignmentsLT.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/hospitalAssignmentsLT.jsp
+END
+information.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/information.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/home.jsp
+END
+editNDCInteractions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/editNDCInteractions.jsp
+END
+visitGraph.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/visitGraph.jsp
+END
+editNDCodes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/editNDCodes.jsp
+END
+editCPTProcedureCodes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/editCPTProcedureCodes.jsp
+END
+importNDCodes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/importNDCodes.jsp
+END
+hospitalListing.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/hospitalListing.jsp
+END
+editORCodes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/csc-326-project1-team28/!svn/ver/2/iTrust/WebRoot/auth/admin/editORCodes.jsp
+END
