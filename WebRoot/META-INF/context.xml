@@ -17,7 +17,7 @@
 <Resource
 	
 	username="root" 
-	password="toor"
+	password="root"
 	url="jdbc:mysql://localhost/iTrust"		
 	name="jdbc/itrust"
 	auth="Container"
