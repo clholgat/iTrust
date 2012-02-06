@@ -6,7 +6,7 @@ INSERT INTO OfficeVisits(
 	HospitalID,
 	PatientID
 )
-VALUES (1234,'2012-02-01',9000000000,'Test office visit','1',25);
+VALUES (1235,'2012-01-01',9000000000,'Test office visit','1',25);
 
 INSERT INTO OVMedication (
 VisitID,
@@ -16,9 +16,9 @@ EndDate,
 Dosage,
 Instructions) 
 VALUES (
-1234,
-'00882219',
-'2012-02-01',
-'2012-08-01',
-100,
-'Take once daily.')
+1235,
+'664662530',
+'2012-01-01',
+'2012-01-31',
+60,
+'Take three times daily with food.')
