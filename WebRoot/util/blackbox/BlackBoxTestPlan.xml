@@ -7381,5 +7381,185 @@ E2">
     </actualResults>
     </description>
   </test>
+  
+  <test id="addAllergyWithExistingPrescriptionTest">
+  <role>HCP</role>
+    <dateAdded>2/6/2012</dateAdded>
+    <usecase>10</usecase>
+    <description>
+    	<precondition>HCP Kelly Doctor (MID 9000000000) is a registered and authenticated user of iTrust.</precondition>
+    	<precondition>Patient Trend Setter (MID 25) is a registered user of iTrust.</precondition>
+ 	   	<step>HCP Kelly Doctor clicks on “Document Office Visit”.</step>
+    	<step>HCP Kelly Doctor selects patient Trend Setter.</step>
+    	<step>HCP Kelly Doctor clicks “Yes, Document Office Visit”.</step>
+    	<step>Under “Office Visit”, HCP Kelly Doctor enters the date “02/01/2012” and clicks “Create”.</step>
+    	<step>Under “Prescriptions”, HCP Kelly Doctor enters “00882219 – Lantus”, 100 mg, from “02/01/2012” to “08/01/2012”, with instructions “Take once daily.”</step>
+    	<step>HCP Kelly Doctor clicks “Add Prescription”.</step>
+    	<step>Under “Patient Info”, HCP Kelly Doctor clicks “PHR Information”. </step>
+    	<step>Under “Allergies”, HCP Kelly Doctor selects “00882219 – Lantus” and clicks “Add Allergy”.</step>
+    <expectedResults>
+      <eResult>Kelly Doctor is presented with the following information: Allergy Added Medication “00882219 - Lantus” is currently prescribed to Trend Setter.</eResult>
+    </expectedResults>
+    <actualResults>
+    </actualResults>
+    </description>
+  </test>
+  
+  <test id="addAllergyWithPreviousPrescriptionTest">
+  <role>HCP</role>
+    <dateAdded>2/6/2012</dateAdded>
+    <usecase>10</usecase>
+    <description>
+    	<precondition>HCP Kelly Doctor (MID 9000000000) is a registered and authenticated user of iTrust.</precondition>
+    	<precondition>Patient Trend Setter (MID 25) is a registered user of iTrust.</precondition>
+ 	  	<step>HCP Kelly Doctor clicks on “Document Office Visit”.</step>
+    	<step>HCP Kelly Doctor selects patient Trend Setter.</step>
+    	<step>HCP Kelly Doctor clicks “Yes, Document Office Visit”.</step>
+    	<step>Under “Office Visit”, HCP Kelly Doctor enters the date “01/01/2012” and clicks “Create”.</step>
+    	<step>Under “Prescriptions”, HCP Kelly Doctor enters “664662530 - Penicillin”, 60 mg, from “01/01/2012” to “01/31/2012”, with instructions “Take three times daily with food.”</step>
+    	<step>HCP Kelly Doctor clicks “Add Prescription”.</step>
+    	<step>Under “Patient Info”, HCP Kelly Doctor clicks “PHR Information”. </step>
+    	<step>Under “Allergies”, HCP Kelly Doctor selects “664662530 - Penicillin” and clicks “Add Allergy”.</step>
+    <expectedResults>
+      <eResult>Kelly Doctor is presented with the message “Allergy Added”. No warning is displayed.</eResult>
+    </expectedResults>
+    <actualResults>
+    </actualResults>
+    </description>
+  </test>
+  
+  <test id="noAllergyPrescribeTest">
+  <role>HCP</role>
+    <dateAdded>2/6/2012</dateAdded>
+    <usecase>37</usecase>
+    <description>
+    	<precondition>HCP Kelly Doctor (MID 9000000000) is a registered and authenticated user of iTrust.</precondition>
+    	<precondition>Patient Trend Setter (MID 25) is a registered user of iTrust.</precondition>
+ 	   	<step>HCP Kelly Doctor clicks on “Document Office Visit”.</step>
+    	<step>HCP Kelly Doctor selects patient Trend Setter.</step>
+    	<step>HCP Kelly Doctor clicks “Yes, Document Office Visit”.</step>
+    	<step>Under “Office Visit”, HCP Kelly Doctor enters the date “02/01/2012” and clicks “Create”.</step>
+    	<step>Under “Prescriptions”, HCP Kelly Doctor enters “01864020 - Nexium”, 20 mg, from “02/01/2012” to “08/01/2012”, with instructions “Take once daily.”</step>
+    	<step>HCP Kelly Doctor clicks “Add Prescription”.</step>
+    <expectedResults>
+      <eResult>Nexium is successfully prescribed to Trend Setter. The event is logged.</eResult>
+    </expectedResults>
+    <actualResults>
+    </actualResults>
+    </description>
+  </test>
+  
+  <test id="noAllergyPrescribeTest">
+  <role>HCP</role>
+    <dateAdded>2/6/2012</dateAdded>
+    <usecase>37</usecase>
+    <description>
+    	<precondition>HCP Kelly Doctor (MID 9000000000) is a registered and authenticated user of iTrust.</precondition>
+    	<precondition>Patient Trend Setter (MID 25) is a registered user of iTrust.</precondition>
+ 	   	<step>Under “Patient Info”, HCP Kelly Doctor clicks “PHR Information”. </step>
+    	<step>Under “Allergies”, HCP Kelly Doctor selects “664662530 - Penicillin” and clicks “Add Allergy”.</step>
+    	<step>HCP Kelly Doctor clicks on “Document Office Visit”. </step>
+    	<step>Under “Office Visit”, HCP Kelly Doctor enters the date “02/01/2012” and clicks “Create”.</step>
+    	<step>HCP Kelly Doctor clicks “Yes, Document Office Visit”.</step>
+    	<step>Under “Office Visit”, HCP Kelly Doctor enters the date “01/01/2012” and clicks “Create”.</step>
+    	<step>Under “Prescriptions”, HCP Kelly Doctor enters “664662530 - Penicillin”, 60 mg, from “01/01/2012” to “01/31/2012”, with instructions “Take three times daily with food.”</step>
+    	<step>HCP Kelly Doctor clicks “Add Prescription”.</step>
+    <expectedResults>
+      <eResult>Kelly Doctor is presented with the following information: Allergy: Penicillin. First Found: [the date the test was performed]. The event is logged.</eResult>
+    </expectedResults>
+    <actualResults>
+    </actualResults>
+    </description>
+  </test>
+  
+  <test id="addAllergyToMedicationNotPrescribedTest">
+  <role>HCP</role>
+    <dateAdded>2/6/2012</dateAdded>
+    <usecase>10</usecase>
+    <description>
+    	<precondition>HCP Kelly Doctor (MID 9000000000) is a registered and authenticated user of iTrust.</precondition>
+    	<precondition>Patient Trend Setter (MID 25) is a registered user of iTrust.</precondition>
+ 	  	<step>HCP Kelly Doctor clicks on “Document Office Visit”.</step>
+    	<step>HCP Kelly Doctor selects patient Trend Setter.</step>
+    	<step>HCP Kelly Doctor clicks “Yes, Document Office Visit”.</step>
+    	<step>Under “Office Visit”, HCP Kelly Doctor enters the date “02/01/2012” and clicks “Create”.</step>
+    	<step>Under “Prescriptions”, HCP Kelly Doctor enters “00882219 – Lantus”, 100 mg, from “02/01/2012” to “08/01/2012”, with instructions “Take once daily.”</step>
+    	<step>HCP Kelly Doctor clicks “Add Prescription”.</step>
+    	<step>Under “Patient Info”, HCP Kelly Doctor clicks “PHR Information”. </step>
+    	<step>Under “Allergies”, HCP Kelly Doctor selects “081096 – Aspirin” and clicks “Add Allergy”.</step>
+    <expectedResults>
+      <eResult>Kelly Doctor is presented with the message “Allergy Added”. No warning is displayed.</eResult>
+    </expectedResults>
+    <actualResults>
+    </actualResults>
+    </description>
+  </test>
+  
+  <test id="addAllergyNoPrescriptionTest">
+  <role>HCP</role>
+    <dateAdded>2/6/2012</dateAdded>
+    <usecase>10</usecase>
+    <description>
+    	<precondition>HCP Kelly Doctor (MID 9000000000) is a registered and authenticated user of iTrust.</precondition>
+    	<precondition>Patient Trend Setter (MID 25) is a registered user of iTrust.</precondition>
+ 	  	<step>HCP Kelly Doctor clicks on “Document Office Visit”.</step>
+    	<step>HCP Kelly Doctor selects patient Trend Setter.</step>
+    	<step>HCP Kelly Doctor clicks “Yes, Document Office Visit”.</step>
+    	<step>Under “Office Visit”, HCP Kelly Doctor enters the date “01/01/2012” and clicks “Create”.</step>
+    	<step>Under “Patient Info”, HCP Kelly Doctor clicks “PHR Information”.</step>
+    	<step>Under “Allergies”, HCP Kelly Doctor selects “081096 – Aspirin” and clicks “Add Allergy”.</step>
+    <expectedResults>
+      <eResult>Kelly Doctor is presented with the message “Allergy Added”. No warning is displayed.</eResult>
+    </expectedResults>
+    <actualResults>
+    </actualResults>
+    </description>
+  </test>
+  
+  <test id="addPrescriptionNonConflictingAllergyTest">
+  <role>HCP</role>
+    <dateAdded>2/6/2012</dateAdded>
+    <usecase>37</usecase>
+    <description>
+    	<precondition>HCP Kelly Doctor (MID 9000000000) is a registered and authenticated user of iTrust.</precondition>
+    	<precondition>Patient Trend Setter (MID 25) is a registered user of iTrust.</precondition>
+ 	   	<step>Under “Patient Info”, HCP Kelly Doctor clicks “PHR Information”. </step>
+    	<step>HCP Kelly Doctor selects patient Trend Setter</step>
+    	<step>Under “Allergies”, HCP Kelly Doctor selects “01864020 - Nexium” and clicks “Add Allergy”.</step>
+    	<step>HCP Kelly Doctor clicks on “Document Office Visit”.</step>
+    	<step>HCP Kelly Doctor clicks “Yes, Document Office Visit”.</step> 
+    	<step>Under “Office Visit”, HCP Kelly Doctor enters the date “02/01/2012” and clicks “Create”.</step>
+    	<step>Under “Prescriptions”, HCP Kelly Doctor enters “00882219 – Lantus”, 100 mg, from “02/01/2012” to “08/01/2012”, with instructions “Take once daily.”</step>
+    	<step>HCP Kelly Doctor clicks “Add Prescription”.</step>
+    <expectedResults>
+      <eResult>Lantus is successfully prescribed to Trend Setter. The event is logged.</eResult>
+    </expectedResults>
+    <actualResults>
+    </actualResults>
+    </description>
+  </test>
+  
+  <test id="addFuturePrescriptionConflictingAllergy">
+  <role>HCP</role>
+    <dateAdded>2/6/2012</dateAdded>
+    <usecase>37</usecase>
+    <description>
+    	<precondition>HCP Kelly Doctor (MID 9000000000) is a registered and authenticated user of iTrust.</precondition>
+    	<precondition>Patient Trend Setter (MID 25) is a registered user of iTrust.</precondition>
+ 	   	<step>Under “Patient Info”, HCP Kelly Doctor clicks “PHR Information”. </step>
+    	<step>HCP Kelly Doctor selects patient Trend Setter</step>
+    	<step>Under “Allergies”, HCP Kelly Doctor selects “664662530 - Penicillin” and clicks “Add Allergy”.</step>
+    	<step>HCP Kelly Doctor clicks on “Document Office Visit”.</step>
+    	<step>HCP Kelly Doctor clicks “Yes, Document Office Visit”.</step>
+    	<step>Under “Office Visit”, HCP Kelly Doctor enters the date “01/01/2012” and clicks “Create”.</step>
+    	<step>Under “Prescriptions”, HCP Kelly Doctor enters “664662530 - Penicillin”, 60 mg, from “04/01/2012” to “04/31/2012”, with instructions “Take three times daily with food.”</step>
+    	<step>HCP Kelly Doctor clicks “Add Prescription”.</step>
+    <expectedResults>
+      <eResult>Kelly Doctor is presented with the following information: Allergy: Penicillin. First Found: [the date the test was performed]. The event is logged.</eResult>
+    </expectedResults>
+    <actualResults>
+    </actualResults>
+    </description>
+  </test>
 
 </BlackBoxTestPlan>
